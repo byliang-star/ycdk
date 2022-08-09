@@ -1,0 +1,13 @@
+{
+    "tasks": [],
+    "offTask": null,
+    "initTask": null,
+    "workTime": "白班现场",
+    "password": "0000",
+    "offMode": "auto",
+    "offTime": "20:00",
+    "clockProgress": [],
+    "useVolumeDown": false,
+    "useDefined": false,
+    "userDefinedTime": {}
+}
